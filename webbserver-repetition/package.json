@@ -1,0 +1,20 @@
+{
+  "name": "webbserver-repetition",
+  "version": "1.0.0",
+  "description": "Repetition av webbserver 1",
+  "main": "meep.js",
+  "scripts": {
+    "dev": "nodemon meep.js"
+  },
+  "keywords": [],
+  "author": "Ilumin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
